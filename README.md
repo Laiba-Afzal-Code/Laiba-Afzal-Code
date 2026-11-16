@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Laiba Afzal! 👋
 
-<!--
-**Laiba-Afzal-Code/Laiba-Afzal-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | JavaScript Enthusiast | Creative Problem Solver**
 
-Here are some ideas to get you started:
+I'm a passionate Full-stack Developer who loves turning ideas into interactive, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring modern web technologies, building creative projects, solving problems, and continuously improving my development skills through hands-on experience.
+
+### 🚀 What I'm Focused On
+- Building responsive and interactive web applications.
+- Strengthening my JavaScript and React.js skills.
+- Exploring modern frontend technologies.
+- Learning, experimenting, and creating amazing projects.
+- Collaborating with developers and contributing to innovative ideas.
+
+### 🛠️ Technologies & Tools
+- JavaScript
+- Python
+- HTML5 & CSS3
+- React.js
+- Bootstrap
+- Git & GitHub
+- Figma & Canva
+- MERN stack development
+
+### 🌱 My Goal
+To keep learning, build impactful digital experiences, and grow into a skilled full-stack developer.
+
+### 🤝 Let's Connect
+I'm open to learning opportunities, collaboration, and exciting projects.
+
+**"Dream it. Code it. Build it. 🚀"**
